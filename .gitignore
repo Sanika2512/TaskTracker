@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+**/.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+server-test.log
+server-test.err.log
+
+# Build
+dist/
+dist-ssr/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.local
