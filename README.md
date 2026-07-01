@@ -134,11 +134,4 @@ Frontend:
 - Run `npm run build`.
 - Deploy `frontend/dist` to Vercel, Netlify, or any static hosting platform.
 
-## Screenshots
 
-Add screenshots here after deployment:
-
-- Dashboard
-- Task board
-- Analytics
-- Mobile layout
