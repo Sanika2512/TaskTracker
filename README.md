@@ -126,15 +126,6 @@ Frontend runs at `http://localhost:5173`.
 }
 ```
 
-## Deployment
 
-Backend:
-- Set `MONGO_URI`, `PORT`, `NODE_ENV=production`, and `FRONTEND_URL` in the hosting provider.
-- Deploy the `backend` folder to Render, Railway, Fly.io, or another Node-compatible host.
-
-Frontend:
-- Set `VITE_API_URL` to the deployed backend API URL.
-- Run `npm run build`.
-- Deploy `frontend/dist` to Vercel, Netlify, or any static hosting platform.
 
 
